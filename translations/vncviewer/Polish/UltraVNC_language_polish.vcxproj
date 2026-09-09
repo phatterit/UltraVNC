@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{63f3ae73-f00a-4fcd-8311-f1eb5843c83f}</ProjectGuid>
+    <ProjectGuid>{48E4362F-E812-46D0-AE96-C886A317E0E9}</ProjectGuid>
     <RootNamespace>UltraVNClanguage</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
